@@ -21,3 +21,4 @@ WHEN I refresh the page
 THEN the saved events persist
 
 https://github.com/bsaglimb/bsWorkDay
+https://bsaglimb.github.io/bsWorkDay/
