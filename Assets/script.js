@@ -36,7 +36,7 @@ $(function () {
     });
   }
 
-  $('.time block').each(function() {
+  $('.time-block').each(function() {
     var key = $(this).attr('id');
     var value = localStorage.getItem(key);
     $(this).children('.description').val(value);
